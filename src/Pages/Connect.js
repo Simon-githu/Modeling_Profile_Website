@@ -11,7 +11,9 @@ function Connect() {
         <ConnectContent >
             <ColumnLeft >
                 <Text >Get in Touch</Text>
-                <Paragraph>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos harum corporis fuga corrupti. Doloribus quis soluta nesciunt veritatis vitae nobis?</Paragraph>
+                <Paragraph>Connect with me,i am available on instagram or you can just mail me and i will respond as immediate as i get the mail.
+                You can also call me or WhatsApp me on the provided phone numbers below.
+                </Paragraph>
             <Card>
             <CardContent>
                 <ImgBx>
@@ -334,11 +336,10 @@ font-size:2rem;
 border:1px solid rgba(255,255,255,0.4);
 border-right:1px solid rgba(255,255,255,0.2);
 border-bottom:1px solid rgba(255,255,255,0.2);
-box-shadow:0 5px 45px  rgba(0,0,0,0.1);
 backdrop-filter:blur(2px);
 overflow:hidden;
 margin:0px 15px;
-
+border: 1px solid #E1306C;
 
 @media screen and (max-width:947px){
       color:#E1306C
@@ -481,9 +482,9 @@ font-size:2rem;
 border:1px solid rgba(255,255,255,0.4);
 border-right:1px solid rgba(255,255,255,0.2);
 border-bottom:1px solid rgba(255,255,255,0.2);
-box-shadow:0 5px 45px  rgba(0,0,0,0.1);
 backdrop-filter:blur(2px);
-overflow:hidden
+overflow:hidden;
+border: 1px solid lightblue;
 ;
 @media screen and (max-width:768px){
        color:lightblue;

@@ -15,9 +15,6 @@ function Gallery() {
         <Title class="title">My Gallery</Title>
         <Carousel 
         showArrows="true"
-        autoPlaySpeed={8000}
-       enableAutoPlay={true}
-
         breakPoints={breakPoints}>
         {GalleryImage.map((img,index)=>(
             <Card >

@@ -5,7 +5,7 @@ function Footer() {
     return (
     
     <PageFooter>
-    <Span>Created By <Link href="#">Simon Baloi</Link> | <span class="far fa-copyright"></span> 2021 All rights reserved.</Span>
+    <Span>Created By <Link>Simon Baloi</Link> | <span class="far fa-copyright"></span> 2021 All rights reserved.</Span>
 </PageFooter>
     )
 }
@@ -24,7 +24,5 @@ const Span =styled.span`
 `;
 const Link =styled.a`
 color:white;
-&:hover{
-    text-decoration: underline;
-}
+
 `;

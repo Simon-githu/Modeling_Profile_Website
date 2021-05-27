@@ -17,12 +17,12 @@ function About() {
                 I have a huge passion for acting and I love being in front of the camera. 
                 I mainly shoot fashions, but I also enjoy creative projects. 
                 I am currently a freelance Model  and working with individual photographers, 
-                but have worked with JUSTYOU Agency was part of CASTLE advert as an extra and also a GQ BEST DRESS MAN 2020 S.A,
+                but have worked with <span style={{fontWeight:"bold",fontSize:"14px"}}>JUSTYOU Agency</span>.I was part of a <span style={{fontWeight:"bold",fontSize:"14px"}}>CASTLE advert</span> as an extra and also a <span style={{fontWeight:"bold",fontSize:"14px"}}>GQ BEST DRESS MAN 2020 S.A</span>,
                 Fashion runway at SOUTH AFRICAN STATE THEATRE. I am available for photoshoots in Pretoria and Johannesburg , 
-                but available to travel to other destinations in the South Africa 
-                I am tall (5’11’), l am Black hair , Brown eyes , well body build which makes me a good model for swimwear photos.
+                also available to travel to other destinations in South Africa. 
+                I am tall (5’11’), black, have black hair , Brown eyes , well body build which makes me a good model for swimwear photos.
                 I enjoy working with photographers and agencies that have a creative approach. 
-                I bring my energy and passion for modelling to every project I work on.</p>
+                I bring my energy and passion for modeling to every project I work on.</p>
                 <a href="https:www.instagram.com/mpho_longstar">For more...</a>
             </ColumnRight>
         </AboutContent>
@@ -143,6 +143,7 @@ const Text =styled.div`
 font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
+    color: #cd853f;
     span{
         color:green;
     }
